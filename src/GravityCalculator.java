@@ -16,9 +16,8 @@ public class GravityCalculator {
                 " seconds is " + finalPosition + " m.");
 
 
-//        modified code method invoked
 
-        gravityCalculator();  //        The object's position after 10.0 seconds is -490.5 m
+        gravityCalculator();  // The object's position after 10.0 seconds is -490.5 m
 
     }
 
